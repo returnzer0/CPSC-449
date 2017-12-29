@@ -4,7 +4,7 @@ This repo contains all of my graded code from CPSC 449 taken with Ben Stephenson
 
 ### Prerequisites
 
-The [prerequisites(http://contacts.ucalgary.ca/info/cpsc/courses/f17/CPSC449?destination=courses%2Ff17) for this course.
+The [prerequisites](http://contacts.ucalgary.ca/info/cpsc/courses/f17/CPSC449?destination=courses%2Ff17) for this course.
 
 ### My Thoughts
 
